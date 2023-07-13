@@ -4,5 +4,5 @@ This project is a beginner-level Airbnb clone, which consists of three HTML page
 
 FontAwesome: Icons used in the website
 
-Acknowledgements
+Acknowledgements: 
 The project was created as part of a learning process and may contain code or design inspiration from various online resources or tutorials.
