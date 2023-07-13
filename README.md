@@ -2,15 +2,6 @@
 
 This project is a beginner-level Airbnb clone, which consists of three HTML pages: houses list, landing page, and about page. It is a static website without any backend functionality.
 
-Project Structure
-
-├── index.html
-├── listing.html
-├── house.html
-├── style.css
-└── images/
-    └── [static images]
-
 FontAwesome: Icons used in the website
 
 Acknowledgements
